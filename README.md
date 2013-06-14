@@ -4,6 +4,10 @@ This is a web-based version of a modular framework that represents data well.
 
 This is a fork of talkslab.github.io/metro-bootstrap/, a heavily modified version of bootstrap by twitter. 
 
+mariodelgado.github.io/index1.html
+mariodelgado.github.io/index2.html
+
+
 
 
 License
